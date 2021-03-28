@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=AGND Pin=AJ1-1
+Removed Pin From Net: NetName=AGND Pin=AJ1-5
+Removed Member From Class: ClassName=pPsch Member=AJ1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=SB2-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Net: Name=NetC5_2
+Added Member To Class: ClassName=pPsch Member=Component SB13 Soldier Bridge

@@ -1,0 +1,145 @@
+Change Component Footprint: Designator=R5 Old Footprint=3006 New Footprint=EVM3
+Change Component Footprint: Designator=R16 Old Footprint=3006 New Footprint=EVM3
+Change Component Footprint: Designator=VT1 Old Footprint=TO-220H New Footprint=SOT-23
+Change Component Designator: OldDesignator=  NewDesignator=ZQ1
+Added Component: Designator=BF1(ACCUM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Name"; Value = "HMO0603B"; VariantName = "[No Variations]"
+Added Component: Designator=GA1(ACCUM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Name"; Value = "LP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.7V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetAJ1_1 Pin=BF1-1
+Added Pin To Net: NetName=NetBF1_2 Pin=BF1-2
+Added Pin To Net: NetName=NetC39_2 Pin=GA1-1
+Added Pin To Net: NetName=NetAU2_19 Pin=GA1-2
+Change Net Name : Old Net Name=Net _1 New Net Name=NetC33_1
+Change Net Name : Old Net Name=Net _2 New Net Name=NetC38_1
+Added Member To Class: ClassName=pPsch Member=Component AJ1 ST-214
+Added Member To Class: ClassName=pPsch Member=Component AU1 LM4811
+Added Member To Class: ClassName=pPsch Member=Component AU2 PCM5102A
+Added Member To Class: ClassName=pPsch Member=Component BF1 HMO0603B
+Added Member To Class: ClassName=pPsch Member=Component C1 100nF
+Added Member To Class: ClassName=pPsch Member=Component C2 100nF
+Added Member To Class: ClassName=pPsch Member=Component C3 100nF
+Added Member To Class: ClassName=pPsch Member=Component C4 100uF
+Added Member To Class: ClassName=pPsch Member=Component C5 100uF
+Added Member To Class: ClassName=pPsch Member=Component C6 100nF
+Added Member To Class: ClassName=pPsch Member=Component C7 100nF
+Added Member To Class: ClassName=pPsch Member=Component C8 1uF
+Added Member To Class: ClassName=pPsch Member=Component C9 1uF
+Added Member To Class: ClassName=pPsch Member=Component C10 100nF
+Added Member To Class: ClassName=pPsch Member=Component C11 1uF
+Added Member To Class: ClassName=pPsch Member=Component C12 100nF
+Added Member To Class: ClassName=pPsch Member=Component C13 10uF
+Added Member To Class: ClassName=pPsch Member=Component C14 100nF
+Added Member To Class: ClassName=pPsch Member=Component C15 100nF
+Added Member To Class: ClassName=pPsch Member=Component C16 10uF
+Added Member To Class: ClassName=pPsch Member=Component C17 100nF
+Added Member To Class: ClassName=pPsch Member=Component C18 100nF
+Added Member To Class: ClassName=pPsch Member=Component C19 100nF
+Added Member To Class: ClassName=pPsch Member=Component C20 2.2uF
+Added Member To Class: ClassName=pPsch Member=Component C21 4.7uF
+Added Member To Class: ClassName=pPsch Member=Component C22 1uF
+Added Member To Class: ClassName=pPsch Member=Component C23 10uF
+Added Member To Class: ClassName=pPsch Member=Component C24 100nF
+Added Member To Class: ClassName=pPsch Member=Component C25 10uF
+Added Member To Class: ClassName=pPsch Member=Component C26 100nF
+Added Member To Class: ClassName=pPsch Member=Component C27 100nF
+Added Member To Class: ClassName=pPsch Member=Component C28 100nF
+Added Member To Class: ClassName=pPsch Member=Component C29 2.2uF
+Added Member To Class: ClassName=pPsch Member=Component C30 2.2uF
+Added Member To Class: ClassName=pPsch Member=Component C31 2.2nF
+Added Member To Class: ClassName=pPsch Member=Component C32 2.2uF
+Added Member To Class: ClassName=pPsch Member=Component C33 32pF
+Added Member To Class: ClassName=pPsch Member=Component C34 2.2nF
+Added Member To Class: ClassName=pPsch Member=Component C35 100nF
+Added Member To Class: ClassName=pPsch Member=Component C36 10uF
+Added Member To Class: ClassName=pPsch Member=Component C37 1uF
+Added Member To Class: ClassName=pPsch Member=Component C38 32pF
+Added Member To Class: ClassName=pPsch Member=Component C39 100nF
+Added Member To Class: ClassName=pPsch Member=Component C40 1uF
+Added Member To Class: ClassName=pPsch Member=Component C41 100nF
+Added Member To Class: ClassName=pPsch Member=Component C42 22pF
+Added Member To Class: ClassName=pPsch Member=Component C43 12pF
+Added Member To Class: ClassName=pPsch Member=Component C44 10uF
+Added Member To Class: ClassName=pPsch Member=Component C45 100nF
+Added Member To Class: ClassName=pPsch Member=Component C46 1uF
+Added Member To Class: ClassName=pPsch Member=Component C47 100nF
+Added Member To Class: ClassName=pPsch Member=Component C48 100nF
+Added Member To Class: ClassName=pPsch Member=Component C49 10uF
+Added Member To Class: ClassName=pPsch Member=Component C50 100nF
+Added Member To Class: ClassName=pPsch Member=Component C51 1uF
+Added Member To Class: ClassName=pPsch Member=Component C52 100nF
+Added Member To Class: ClassName=pPsch Member=Component C53 12pF
+Added Member To Class: ClassName=pPsch Member=Component C54 22pF
+Added Member To Class: ClassName=pPsch Member=Component C55 100nF
+Added Member To Class: ClassName=pPsch Member=Component C56 100nF
+Added Member To Class: ClassName=pPsch Member=Component C57 100nF
+Added Member To Class: ClassName=pPsch Member=Component C58 100nF
+Added Member To Class: ClassName=pPsch Member=Component C59 100nF
+Added Member To Class: ClassName=pPsch Member=Component C60 100nF
+Added Member To Class: ClassName=pPsch Member=Component CHC1 BQ24090
+Added Member To Class: ClassName=pPsch Member=Component DIS1 TFT Display
+Added Member To Class: ClassName=pPsch Member=Component DR1 AD8400
+Added Member To Class: ClassName=pPsch Member=Component GA1 3.7V
+Added Member To Class: ClassName=pPsch Member=Component GB1 3V
+Added Member To Class: ClassName=pPsch Member=Component L1 47uH
+Added Member To Class: ClassName=pPsch Member=Component L2 47uH
+Added Member To Class: ClassName=pPsch Member=Component MCU1 STM32F427VIT6
+Added Member To Class: ClassName=pPsch Member=Component OC1 PS2801-4
+Added Member To Class: ClassName=pPsch Member=Component PS1 LM1117MPX-3.3
+Added Member To Class: ClassName=pPsch Member=Component R1 100
+Added Member To Class: ClassName=pPsch Member=Component R2 68
+Added Member To Class: ClassName=pPsch Member=Component R3 10K
+Added Member To Class: ClassName=pPsch Member=Component R4 1K
+Added Member To Class: ClassName=pPsch Member=Component R5 10K
+Added Member To Class: ClassName=pPsch Member=Component R6 68
+Added Member To Class: ClassName=pPsch Member=Component R7 100
+Added Member To Class: ClassName=pPsch Member=Component R8 2.2K
+Added Member To Class: ClassName=pPsch Member=Component R9 47K
+Added Member To Class: ClassName=pPsch Member=Component R10 47K
+Added Member To Class: ClassName=pPsch Member=Component R11 68
+Added Member To Class: ClassName=pPsch Member=Component R12 100
+Added Member To Class: ClassName=pPsch Member=Component R13 1K
+Added Member To Class: ClassName=pPsch Member=Component R14 68
+Added Member To Class: ClassName=pPsch Member=Component R15 100
+Added Member To Class: ClassName=pPsch Member=Component R16 5K
+Added Member To Class: ClassName=pPsch Member=Component R17 4.7K
+Added Member To Class: ClassName=pPsch Member=Component R18 100K
+Added Member To Class: ClassName=pPsch Member=Component R19 470
+Added Member To Class: ClassName=pPsch Member=Component R20 47K
+Added Member To Class: ClassName=pPsch Member=Component R21 470
+Added Member To Class: ClassName=pPsch Member=Component R22 10K
+Added Member To Class: ClassName=pPsch Member=Component R23 5.1K
+Added Member To Class: ClassName=pPsch Member=Component R24 1K
+Added Member To Class: ClassName=pPsch Member=Component R25 NC7SZ14
+Added Member To Class: ClassName=pPsch Member=Component RTC1 DS3231
+Added Member To Class: ClassName=pPsch Member=Component SB1 Soldier Bridge
+Added Member To Class: ClassName=pPsch Member=Component SB2 Soldier Bridge
+Added Member To Class: ClassName=pPsch Member=Component SB3 Soldier Bridge
+Added Member To Class: ClassName=pPsch Member=Component SB4 Soldier Bridge
+Added Member To Class: ClassName=pPsch Member=Component SB5 Soldier Bridge
+Added Member To Class: ClassName=pPsch Member=Component SB6 Soldier Bridge
+Added Member To Class: ClassName=pPsch Member=Component SB7 Soldier Bridge
+Added Member To Class: ClassName=pPsch Member=Component SB8 Soldier Bridge
+Added Member To Class: ClassName=pPsch Member=Component SB9 Soldier Bridge
+Added Member To Class: ClassName=pPsch Member=Component SB10 Soldier Bridge
+Added Member To Class: ClassName=pPsch Member=Component SB11 Soldier Bridge
+Added Member To Class: ClassName=pPsch Member=Component SDC1 microSD Card Holder
+Added Member To Class: ClassName=pPsch Member=Component SW1 KLS7-TS6601
+Added Member To Class: ClassName=pPsch Member=Component SW2 KLS7-TS6601
+Added Member To Class: ClassName=pPsch Member=Component SW3 KLS7-TS6601
+Added Member To Class: ClassName=pPsch Member=Component SW4 KLS7-TS6601
+Added Member To Class: ClassName=pPsch Member=Component SW5 KLS7-TS6601
+Added Member To Class: ClassName=pPsch Member=Component SW6 KLS7-TS6601
+Added Member To Class: ClassName=pPsch Member=Component SW7 KLS7-TS6601
+Added Member To Class: ClassName=pPsch Member=Component U1 74HC595
+Added Member To Class: ClassName=pPsch Member=Component U2 LM358ADR
+Added Member To Class: ClassName=pPsch Member=Component UP1 Type A
+Added Member To Class: ClassName=pPsch Member=Component VD1 1N5817
+Added Member To Class: ClassName=pPsch Member=Component VD2 1N5817
+Added Member To Class: ClassName=pPsch Member=Component VT1 IRLML6401
+Added Member To Class: ClassName=pPsch Member=Component ZQ1 16MHz
+Added Member To Class: ClassName=pPsch Member=Component ZQ2 24.576MHz
+Added Member To Class: ClassName=pPsch Member=Component ZQ3 32.768MHz

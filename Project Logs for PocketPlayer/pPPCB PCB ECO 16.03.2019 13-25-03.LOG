@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=DGND Pin=C53-1
+Removed Pin From Net: NetName=NetC53_2 Pin=C53-2
+Removed Pin From Net: NetName=DGND Pin=C54-1
+Removed Pin From Net: NetName=NetC53_2 Pin=C54-2
+Removed Pin From Net: NetName=NetC53_2 Pin=L2-2
+Added Component: Designator=SB12(SOLDBR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "l"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=C53-1
+Added Pin To Net: NetName=+3.3AV Pin=C53-2
+Added Pin To Net: NetName=AGND Pin=C54-1
+Added Pin To Net: NetName=+3.3AV Pin=C54-2
+Added Pin To Net: NetName=+3.3AV Pin=L2-2
+Added Pin To Net: NetName=DGND Pin=SB12-1
+Added Pin To Net: NetName=AGND Pin=SB12-2
+Change Net Name : Old Net Name=NetC53_2 New Net Name=NetC57_2
+Added Member To Class: ClassName=pPsch Member=Component SB12 Soldier Bridge

@@ -1,0 +1,25 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:13:25 On 26.03.2019
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [pPPCB.PcbDoc]
+   Generated File[pPPCB.GTO]
+   Generated File[pPPCB.GTP]
+   Generated File[pPPCB.GTS]
+   Generated File[pPPCB.GTL]
+   Generated File[pPPCB.GBL]
+   Generated File[pPPCB.GBS]
+   Generated File[pPPCB.GBP]
+   Generated File[pPPCB.GBO]
+   Generated File[pPPCB.GKO]
+   Generated File[pPPCB.RUL]
+   Generated File[pPPCB.EXTREP]
+   Generated File[pPPCB.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 12:13:26 On 26.03.2019

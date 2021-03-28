@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=C32 NewDesignator=C35
+Change Component Designator: OldDesignator=C33 NewDesignator=C32
+Change Component Designator: OldDesignator=C34 NewDesignator=C33
+Change Component Designator: OldDesignator=C35 NewDesignator=C34
+Change Component Designator: OldDesignator=R33 NewDesignator=U3
+Change Net Name : Old Net Name=NetR33_2 New Net Name=NetSB9_2

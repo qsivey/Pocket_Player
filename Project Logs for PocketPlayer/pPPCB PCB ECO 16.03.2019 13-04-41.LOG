@@ -1,0 +1,100 @@
+Removed Pin From Net: NetName=+5V Pin=LED2-1
+Removed Pin From Net: NetName=+3.3V Pin=LED3-1
+Change Component Footprint: Designator=LED2 Old Footprint=LED2.54-5MM-GREEN New Footprint=LED0603
+Change Component Footprint: Designator=LED3 Old Footprint=LED2.54-5MM-GREEN New Footprint=LED0603
+Change Component Designator: OldDesignator=C36 NewDesignator=C37
+Change Component Designator: OldDesignator=C37 NewDesignator=C38
+Change Component Designator: OldDesignator=C38 NewDesignator=C39
+Change Component Designator: OldDesignator=C39 NewDesignator=C40
+Change Component Designator: OldDesignator=C40 NewDesignator=C41
+Change Component Designator: OldDesignator=C41 NewDesignator=C42
+Change Component Designator: OldDesignator=C42 NewDesignator=C43
+Change Component Designator: OldDesignator=C43 NewDesignator=C44
+Change Component Designator: OldDesignator=C44 NewDesignator=C45
+Change Component Designator: OldDesignator=C45 NewDesignator=C46
+Change Component Designator: OldDesignator=C46 NewDesignator=C47
+Change Component Designator: OldDesignator=C47 NewDesignator=C48
+Change Component Designator: OldDesignator=C48 NewDesignator=C49
+Change Component Designator: OldDesignator=C49 NewDesignator=C50
+Change Component Designator: OldDesignator=C50 NewDesignator=C51
+Change Component Designator: OldDesignator=C51 NewDesignator=C52
+Change Component Designator: OldDesignator=C52 NewDesignator=C53
+Change Component Designator: OldDesignator=C53 NewDesignator=C54
+Change Component Designator: OldDesignator=C54 NewDesignator=C55
+Change Component Designator: OldDesignator=C55 NewDesignator=C56
+Change Component Designator: OldDesignator=C56 NewDesignator=C57
+Change Component Designator: OldDesignator=C57 NewDesignator=C58
+Change Component Designator: OldDesignator=C58 NewDesignator=C59
+Change Component Designator: OldDesignator=C59 NewDesignator=C60
+Change Component Designator: OldDesignator=C60 NewDesignator=C61
+Change Component Designator: OldDesignator=C61 NewDesignator=C36
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED4
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED5
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R19
+Change Component Designator: OldDesignator=R19 NewDesignator=R21
+Change Component Designator: OldDesignator=R20 NewDesignator=R22
+Change Component Designator: OldDesignator=R21 NewDesignator=R24
+Change Component Designator: OldDesignator=R22 NewDesignator=R25
+Change Component Designator: OldDesignator=R23 NewDesignator=R26
+Change Component Designator: OldDesignator=R24 NewDesignator=R27
+Change Component Designator: OldDesignator=R25 NewDesignator=R28
+Change Component Designator: OldDesignator=R26 NewDesignator=R29
+Change Component Designator: OldDesignator=R27 NewDesignator=R30
+Change Component Designator: OldDesignator=R28 NewDesignator=R31
+Change Component Designator: OldDesignator=R29 NewDesignator=R32
+Change Component Designator: OldDesignator=R30 NewDesignator=R33
+Change Component Designator: OldDesignator=VD1 NewDesignator=VD2
+Change Component Designator: OldDesignator=VD2 NewDesignator=VD1
+Added Component: Designator=LED2(LED0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Name"; Value = "GNL5012"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Name"; Value = "GNL5012"; VariantName = "[No Variations]"
+Added Component: Designator=R10(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "170"; VariantName = "[No Variations]"
+Added Component: Designator=R20(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=R23(R0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "170"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=LED3-1
+Added Pin To Net: NetName=+3.3AV Pin=R10-2
+Added Pin To Net: NetName=+5V Pin=R20-1
+Added Pin To Net: NetName=+3.3V Pin=R23-1
+Change Net Name : Old Net Name=NetC36_2 New Net Name=NetC37_2
+Change Net Name : Old Net Name=NetC39_1 New Net Name=NetC40_1
+Change Net Name : Old Net Name=NetC44_1 New Net Name=NetC45_1
+Change Net Name : Old Net Name=NetC48_1 New Net Name=NetC49_1
+Change Net Name : Old Net Name=NetC49_1 New Net Name=NetC50_1
+Change Net Name : Old Net Name=NetC52_2 New Net Name=NetC53_2
+Change Net Name : Old Net Name=NetC58_2 New Net Name=NetC59_2
+Change Net Name : Old Net Name=NetC59_1 New Net Name=NetC60_1
+Change Net Name : Old Net Name=NetC60_1 New Net Name=NetC61_1
+Change Net Name : Old Net Name=NetR18_1 New Net Name=NetR19_1
+Change Net Name : Old Net Name=NetR21_2 New Net Name=NetR24_2
+Change Net Name : Old Net Name=NetR30_2 New Net Name=NetR33_2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R10-1
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R20-2
+Added Net: Name=NetLED4_1
+Added Pin To Net: NetName=NetLED5_1 Pin=LED5-1
+Added Pin To Net: NetName=NetLED5_1 Pin=R23-2
+Added Net: Name=NetLED5_1
+Added Member To Class: ClassName=pPsch Member=Component LED4 GNL5012
+Added Member To Class: ClassName=pPsch Member=Component LED5 GNL5012
+Added Member To Class: ClassName=pPsch Member=Component R31 5.1K
+Added Member To Class: ClassName=pPsch Member=Component R32 1K
+Added Member To Class: ClassName=pPsch Member=Component R33 NC7SZ14

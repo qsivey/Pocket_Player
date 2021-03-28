@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C4 Old Footprint=CAP_TAN-D New Footprint=CAP_TAN-C
+Change Component Footprint: Designator=C5 Old Footprint=CAP_TAN-D New Footprint=CAP_TAN-C
+Added Member To Class: ClassName=pPsch Member=Component C51 1uF
+Added Member To Class: ClassName=pPsch Member=Component C52 100nF
+Added Member To Class: ClassName=pPsch Member=Component LED3 GNL5012
+Added Member To Class: ClassName=pPsch Member=Component LED4 GNL5012
+Added Member To Class: ClassName=pPsch Member=Component SB12 Soldier Bridge

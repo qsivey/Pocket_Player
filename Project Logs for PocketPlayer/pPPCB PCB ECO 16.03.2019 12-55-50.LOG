@@ -1,0 +1,14 @@
+Added Component: Designator=LED2(LED2.54-5MM-GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Name"; Value = "GNL5012"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED2.54-5MM-GREEN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Name"; Value = "GNL5012"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=LED2-1
+Added Pin To Net: NetName=DGND Pin=LED2-2
+Added Pin To Net: NetName=+3.3V Pin=LED3-1
+Added Pin To Net: NetName=DGND Pin=LED3-2
+Change Net Name : Old Net Name=NetAJ1_1 New Net Name=AGND
+Change Net Name : Old Net Name=NetAU2_1 New Net Name=+3.3AV
+Added Member To Class: ClassName=pPsch Member=Component LED2 GNL5012
+Added Member To Class: ClassName=pPsch Member=Component LED3 GNL5012

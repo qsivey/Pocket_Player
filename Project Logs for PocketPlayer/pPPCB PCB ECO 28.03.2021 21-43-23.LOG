@@ -1,0 +1,4 @@
+Added Class: Name=pPsch-GOST
+Added Member To Class: ClassName=pPsch Member=Component C33 100nF
+Added Member To Class: ClassName=pPsch Member=Component C35 2.2uF
+Added Member To Class: ClassName=pPsch Member=Component U1 74HC595

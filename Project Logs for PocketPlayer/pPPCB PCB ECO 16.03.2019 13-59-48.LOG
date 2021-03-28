@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=DGND Pin=C49-2
+Removed Pin From Net: NetName=DGND Pin=C60-2
+Removed Pin From Net: NetName=DGND Pin=R33-3
+Removed Pin From Net: NetName=+3.3V Pin=R33-5
+Added Component: Designator=SB13(SOLDBR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "l"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AGND Pin=R33-3
+Added Pin To Net: NetName=+3.3AV Pin=R33-5
+Added Pin To Net: NetName=AGND Pin=SB13-1
+Added Pin To Net: NetName=NetC49_2 Pin=C49-2
+Added Pin To Net: NetName=NetC49_2 Pin=C60-2
+Added Pin To Net: NetName=NetC49_2 Pin=SB13-2
+Added Net: Name=NetC49_2

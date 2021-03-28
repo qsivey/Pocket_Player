@@ -1,0 +1,39 @@
+Change Net Name : Old Net Name=NetAU2_19 New Net Name=DGND
+Change Net Name : Old Net Name=NetC3_1 New Net Name=+3.3V
+Change Net Name : Old Net Name=NetC43_2 New Net Name=+5V
+Change Net Name : Old Net Name=NetC45_2 New Net Name=+3.7CHV
+Added Member To Class: ClassName=pPsch Member=Component C12 10uF
+Added Member To Class: ClassName=pPsch Member=Component C30 100nF
+Added Member To Class: ClassName=pPsch Member=Component C31 100nF
+Added Member To Class: ClassName=pPsch Member=Component C32 2.2uF
+Added Member To Class: ClassName=pPsch Member=Component C33 100nF
+Added Member To Class: ClassName=pPsch Member=Component C36 2.2uF
+Added Member To Class: ClassName=pPsch Member=Component C38 2.2uF
+Added Member To Class: ClassName=pPsch Member=Component C39 32pF
+Added Member To Class: ClassName=pPsch Member=Component C40 2.2nF
+Added Member To Class: ClassName=pPsch Member=Component C41 100nF
+Added Member To Class: ClassName=pPsch Member=Component C43 1uF
+Added Member To Class: ClassName=pPsch Member=Component C44 32pF
+Added Member To Class: ClassName=pPsch Member=Component C46 1uF
+Added Member To Class: ClassName=pPsch Member=Component C48 22pF
+Added Member To Class: ClassName=pPsch Member=Component C50 10uF
+Added Member To Class: ClassName=pPsch Member=Component C51 100nF
+Added Member To Class: ClassName=pPsch Member=Component C53 100nF
+Added Member To Class: ClassName=pPsch Member=Component C55 100nF
+Added Member To Class: ClassName=pPsch Member=Component C56 1uF
+Added Member To Class: ClassName=pPsch Member=Component C57 100nF
+Added Member To Class: ClassName=pPsch Member=Component C58 100nF
+Added Member To Class: ClassName=pPsch Member=Component C59 22pF
+Added Member To Class: ClassName=pPsch Member=Component R2 10K
+Added Member To Class: ClassName=pPsch Member=Component R3 100
+Added Member To Class: ClassName=pPsch Member=Component R6 220
+Added Member To Class: ClassName=pPsch Member=Component R7 220
+Added Member To Class: ClassName=pPsch Member=Component R8 220
+Added Member To Class: ClassName=pPsch Member=Component R11 68
+Added Member To Class: ClassName=pPsch Member=Component R14 47K
+Added Member To Class: ClassName=pPsch Member=Component R15 47K
+Added Member To Class: ClassName=pPsch Member=Component R16 68
+Added Member To Class: ClassName=pPsch Member=Component R17 100
+Added Member To Class: ClassName=pPsch Member=Component R18 1K
+Added Member To Class: ClassName=pPsch Member=Component R24 470
+Added Member To Class: ClassName=pPsch Member=Component R27 10K
